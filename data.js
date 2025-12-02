@@ -46,14 +46,14 @@ var APP_DATA = {
           "text": "Students can sign-up and join waitlist for bowling slots, arcade game machines and billiard tables"
         },
         {
-          "yaw": -2.159446409297482,
-          "pitch": 0.17182887749347842,
+          "yaw": -2.159693474022305,
+          "pitch": 0.11365613618353443,
           "title": "Arcade Game Machines",
           "text": "Text"
         },
         {
-          "yaw": 1.8233318683143924,
-          "pitch": 0.06542103577124081,
+          "yaw": 1.9792866552533521,
+          "pitch": 0.06897939369969386,
           "title": "Bulletin Boards",
           "text": "Information about tournaments, intramurals and general campus news."
         }
@@ -99,8 +99,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.5635958653346886,
-          "pitch": 0.11707050563584787,
+          "yaw": 0.56144450383559,
+          "pitch": 0.02867061337898491,
           "title": "Bowling Alley",
           "text": "Text"
         }
@@ -187,8 +187,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.19439644597547634,
-          "pitch": 0.1611926151053602,
+          "yaw": 0.031015115457709186,
+          "pitch": 0.11318054004664724,
           "title": "Standard Billiard Tables",
           "text": "Text"
         }
